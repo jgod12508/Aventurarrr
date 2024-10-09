@@ -1,0 +1,34 @@
+/*João Gabriel de Oliveira Duarte 2C 02/09/2024*/
+body{
+    background-color: #09df2d;
+    color: white;
+    font-family: 'Bai Jamjuree', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: #3a1d0f;
+    color: white;
+    font-family: 'Bai Jamjuree' sans-serif;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 90%;
+}
